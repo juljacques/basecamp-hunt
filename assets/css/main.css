@@ -1,4 +1,4 @@
-
+/* Minimal changes to the design by @julienjacques */
 
 .hide {
     display: none;
@@ -10,4 +10,12 @@
 
 .page-header {
 	margin-top: -65px;
+}
+
+.card-footer .icon {
+	padding-top: 5px;
+}
+
+.card-footer .icon span {
+	margin-left: 5px;
 }
