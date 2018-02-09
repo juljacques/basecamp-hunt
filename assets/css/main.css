@@ -19,3 +19,7 @@
 .card-footer .icon span {
 	margin-left: 5px;
 }
+
+.card-plain .col-md-8 {
+	margin-top: -10px;
+}
