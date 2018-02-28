@@ -23,3 +23,7 @@
 .card-plain .col-md-8 {
 	margin-top: -10px;
 }
+
+h2 .red {
+	color: #FF3636;
+}
