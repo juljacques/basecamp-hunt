@@ -27,3 +27,14 @@
 h2 .red {
 	color: #FF3636;
 }
+
+.btn-centre {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-align-content: center;
+    align-content: center;
+    text-align: center;
+    margin:0 auto;
+}
